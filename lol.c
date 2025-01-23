@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main()
+int batata()
 {
   printf("Hey there!");
+  return 0;
 }
 
